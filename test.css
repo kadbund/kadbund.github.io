@@ -8,4 +8,20 @@
     font-size: 40px;
     text-align: center; color: red}
     h1 {margin-bottom: 15px;font-size: 60px; color: white;text-align: center;text-decoration: underline; background-color: black;}
-    
+    .p3 {margin-top: 15px;
+        margin-bottom: 15px;
+        font-size: 40px;
+        text-align: left; color:coral}
+        section {
+            background-color: greenyellow;
+          }
+          h2 {
+            color: deeppink;
+          }
+          h2 {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+          }
+          h4 {float: left;width: 30;}
+        
